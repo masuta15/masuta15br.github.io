@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Sobre"
+    url: /about/
+  - title: "Cursos"
+    url: /list_of_courses/
+  - title: "Machine Learning"
+    url: /machine-learning/
+  #  url: /list_of_courses/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
