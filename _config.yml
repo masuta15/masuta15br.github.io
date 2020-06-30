@@ -116,6 +116,18 @@ author:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: mailto:israndrade16@hotmail.com
+    - label: "Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://medium.com/@mestre15"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:israndrade16@hotmail.com
+    - label: "Canal do Youtube"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/channel/UC2JqJOPVvDpexeAv0vE3HUQ?view_as=subscriber"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:israndrade16@hotmail.com
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/israel-de-andrade-74980836/"
