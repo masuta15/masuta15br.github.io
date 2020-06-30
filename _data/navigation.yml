@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Cursos"
     url: /list_of_courses/
-  - title: "Machine Learning"
+  - title: "Projetos"
     url: /machine-learning/
   - title: "Filantropia"
     url: /philanthropy/
