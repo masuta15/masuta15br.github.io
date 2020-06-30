@@ -6,10 +6,11 @@ main:
     url: /list_of_courses/
   - title: "Machine Learning"
     url: /machine-learning/
-  - title: "Livros"
-    url: /books/
   - title: "Filantropia"
     url: /philanthropy/
+  - title: "Livros"
+    url: /books/
+
   #  url: /list_of_courses/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
