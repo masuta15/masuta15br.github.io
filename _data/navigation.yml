@@ -8,6 +8,8 @@ main:
     url: /machine-learning/
   - title: "Livros"
     url: /books/
+  - title: "Trabalho filantrópico
+    url: /philanthropy/
   #  url: /list_of_courses/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
