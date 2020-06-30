@@ -7,9 +7,7 @@ header:
  image: "/images/books/gravitationalWave.jpg"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/books/gravitation.jpg" alt=""> 
-
-###Trabalhos de filantropia realizados
+### Trabalhos de filantropia realizados
 ## Aulas de Instalações elétricas em Guaianazes
 No período de 2016 a 2017  ministrei aulas através de um projeto filantrópico <\br>
 de pesquisa de extensão em ensino promovido pela Universidade Presbiteriana Mackenzie conhecido como Pibex <\br>
