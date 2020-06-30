@@ -117,3 +117,5 @@ In this Machine Learning Specialization was used the graphlab and turicreate  li
 <h2>Datacamp</h2>
 <br/>
 [Introduction to Scala](https://www.datacamp.com/statement-of-accomplishment/course/b35465fd4390dc360ebc30ce27ab8a4e6abb1285)<br/>
+[Machine Learning with Python Specialization](https://www.datacamp.com/statement-of-accomplishment/track/d76875cb54c960bb25bce365aaaa1f98ae6a4291)<br/>
+[Data Literacy Specialization](https://www.datacamp.com/statement-of-accomplishment/track/358497150d7a259da1250dcab4009641818d9311)<br/>
