@@ -5,7 +5,7 @@ title: "Courses"
 header:
   image: "/images/exoplanets.jpeg"
 ---
-### Aqui está minha lista ate agora de cursos em Data science<br/>
+### Aqui está minha lista até agora de cursos em Data science<br/>
 ### Dataquest
 [Python For Data Science: Fundamentals Course](https://app.dataquest.io/view_cert/54D0KC4BGYSVX61GA6YS/) <br/>
 [Python For Data Science: Intermediate Course](https://app.dataquest.io/view_cert/Y3LQR10NQSU1CSA79QO4/)<br/>
