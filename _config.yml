@@ -116,6 +116,12 @@ author:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: mailto:israndrade16@hotmail.com
+    - label: "Curriculum"
+      icon: "fas fa-fw fa-link"
+      url: "https://drive.google.com/file/d/1n9NiUQygi4qiovdb72FqOPhOFVErnwP0/view"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:israndrade16@hotmail.com
     - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://medium.com/@mestre15"
