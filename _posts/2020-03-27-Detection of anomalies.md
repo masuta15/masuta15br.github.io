@@ -1,5 +1,5 @@
 ---
-title: "Deteção de anomalias usando Machine Learning"
+title: "Detecção de anomalias usando Machine Learning"
 date: 2020-3-27
 tags: [anomalies, data science,statistics]
 header:
