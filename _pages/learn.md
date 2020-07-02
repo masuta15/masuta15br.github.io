@@ -17,7 +17,7 @@ Probabilidade e Estatística <br>
 Fundamentos de Astronomia e Astrofísica <br>
 <a href="https://www.youtube.com/playlist?list=PLl2gYO4hw15F0UMmKNA_vrFsn53anExCo">Clique aqui </a>para ver o conteúdo do curso <br>
 
-Plataforma eFísica - USP <\br>
+Plataforma eFísica - USP <br>
 <a href="https://efisica.atp.usp.br/home/#">Clique aqui </a>para ver o conteúdo do curso <br>
 
 
