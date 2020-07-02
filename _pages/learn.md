@@ -1,4 +1,4 @@
-Cursos de matematica e estatistica
+### Cursos de matematica e estatistica
 
 Introdução à Ciência da Computação com Python Parte 1
 <a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Clique aqui </a>para ver o conteúdo do curso
@@ -12,7 +12,7 @@ Probabilidade e Estatística
 <a href="https://play.veduca.org/curso-online-probabilidade-e-estatistica">Clique aqui </a>para ver o conteúdo do curso
 
 
-Cursos de astronomia
+### Cursos de astronomia
 
 Fundamentos de Astronomia e Astrofísica
 <a href="https://www.youtube.com/playlist?list=PLl2gYO4hw15F0UMmKNA_vrFsn53anExCo">Clique aqui </a>para ver o conteúdo do curso
