@@ -10,7 +10,8 @@ main:
     url: /philanthropy/
   - title: "Livros"
     url: /books/
-
+  - title: "Aprender"
+    url: /learn/
   #  url: /list_of_courses/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
