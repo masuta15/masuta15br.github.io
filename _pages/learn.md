@@ -1,3 +1,10 @@
+---
+title: "Aprender"
+permalink: /learn/
+title: "Aprender"
+header:
+  image: "/images/exoplanets.jpeg"
+---
 ### Cursos de matematica e estatística <br>
 
 Introdução à Ciência da Computação com Python Parte 1 <br>
