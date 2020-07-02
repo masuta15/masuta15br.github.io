@@ -1,6 +1,6 @@
 ### Cursos de matematica e estatistica
 
-Introdução à Ciência da Computação com Python Parte 1 <\br>
+Introdução à Ciência da Computação com Python Parte 1 <br>
 <a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Clique aqui </a>para ver o conteúdo do curso <\br>
 
 Introdução à Ciência da Computação com Python Parte 2 <\br>
